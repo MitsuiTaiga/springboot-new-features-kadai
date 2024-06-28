@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "sk_test_51PQjYLRp0b525NJu4GxUuPqj8OUvnUmDV03hiGWieK2GKJXOKyZdp3vigpyK0j5U0YyE0r6HCvFwE5obtVattiGq00N8BtKEGS",
+    "type": "java.lang.String",
+    "description": "A description for 'sk_test_51PQjYLRp0b525NJu4GxUuPqj8OUvnUmDV03hiGWieK2GKJXOKyZdp3vigpyK0j5U0YyE0r6HCvFwE5obtVattiGq00N8BtKEGS'"
+  },
+  {
+    "name": "stripe.api-key",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.api-key'"
+  },
+  {
+    "name": "stripe.api-key",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.api-key'"
+  }
+]}
